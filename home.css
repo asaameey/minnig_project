@@ -1,0 +1,11 @@
+fieldset{
+    height: 50%;
+    width: 50%;
+    justify-items: center;
+}
+
+.container{
+    justify-content:space-between;
+    justify-items: flex-end;
+    
+}
